@@ -29,10 +29,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
-
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -47,8 +44,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - PerplexityIA Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-
-
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Mauricio Rodrigues]https://github.com/mauricioRodriguesDev
