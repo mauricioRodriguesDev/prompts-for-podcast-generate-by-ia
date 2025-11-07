@@ -39,10 +39,13 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via perplexityIA
+- Roteiro gerado via perplexityAI
 - Audio gerado pela elevenLabs
 - PerplexityIA Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+
+## 🤖 Ganhe um mês de Perplexity IA Pro 
+- https://plex.it/referrals/Q7MQCR6K
 
 ---
 
